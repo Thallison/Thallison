@@ -1,4 +1,4 @@
-## Oiii eu sou Thallison Morais!
+## Oi eu sou Thallison Morais!
 <div align="center">
   <a href="https://github.com/thallison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thallison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
